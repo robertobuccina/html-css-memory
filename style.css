@@ -80,10 +80,8 @@ h1{
     text-align: center;
 }
 
-.hover-card:hover{
+.invisible > * {
     display: none;
 }
 
-.hover-card:{
-    background-image: url(pattern.png);
-}
+
